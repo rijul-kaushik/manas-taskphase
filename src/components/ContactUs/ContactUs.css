@@ -1,0 +1,67 @@
+/* ContactUs.css */
+.videoTag {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    z-index: -1;
+    margin: 0%;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.contact-container {
+    width: 500px;
+    max-width: 600px;
+    margin: auto;
+    background-color: rgba(255, 255, 255, 0.5);
+    /* translucent white background */
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.label {
+    color: #000;
+    display: block;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.input-field,
+.textarea-field {
+    width: calc(100% - 22px);
+    /* Adjusted width with space for border and padding */
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    margin-right: 10px;
+    /* Add space between input boxes */
+}
+
+.textarea-field {
+    height: 100px;
+    /* Adjust height for textarea */
+}
+
+.button {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.button:hover {
+    background-color: #0056b3;
+}

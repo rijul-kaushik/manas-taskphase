@@ -1,0 +1,12 @@
+
+[
+    { "id": 1, "url": "https://i.imgur.com/79raK1i.jpeg", "alt": "Nature 1" },
+    { "id": 2, "url": "https://i.imgur.com/RkUol9Z.jpeg", "alt": "Nature 2" },
+    { "id": 3, "url": "https://i.imgur.com/WyMG2K5.jpeg", "alt": "Nature 3" },
+    { "id": 4, "url": "https://source.unsplash.com/200x200/?nature/4", "alt": "Nature 4" },
+    { "id": 5, "url": "https://source.unsplash.com/200x200/?nature/5", "alt": "Nature 5" },
+    { "id": 6, "url": "https://source.unsplash.com/200x200/?nature/6", "alt": "Nature 6" },
+    { "id": 7, "url": "https://source.unsplash.com/200x200/?nature/7", "alt": "Nature 7" },
+    { "id": 8, "url": "https://source.unsplash.com/200x200/?nature/8", "alt": "Nature 8" },
+    { "id": 9, "url": "https://source.unsplash.com/200x200/?nature/9", "alt": "Nature 9" }
+]

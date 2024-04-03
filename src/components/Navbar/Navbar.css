@@ -1,0 +1,46 @@
+
+ul{
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    margin: 0%;
+    border-radius: 10px;
+}
+
+ul li{
+    list-style: none;
+    padding: 20px 30px;
+    text-decoration: none;
+    color: white;
+    text-transform: uppercase;
+    position: relative;
+}
+
+ul li :any-link{
+    text-decoration: none;
+    color: white;
+    text-transform: uppercase;
+    position:relative;
+}
+
+ul li::after {
+    content: "";
+    background-color: #f49221;
+    width: 0;
+    left: 0;
+    height: 3px;
+    position: absolute;
+    bottom: -10px;
+}
+
+ul li:hover::after{
+    width: 100%;
+    transition: .8s;
+}
+
+.sticky{
+    margin-left: 18.25%;
+    position: fixed;
+    top: 3px;
+}
+

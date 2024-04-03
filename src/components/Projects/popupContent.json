@@ -1,0 +1,18 @@
+
+[
+    { 
+        "id": 1,
+        "title": "ANTAURI",
+        "paragraph": "Antauri is our latest entry in the 21st edition of the Student Unmanned Aerial Systems Competition held in Maryland,USA in the year 2023. Among 72 participating teams, it stood as follows::12th in the world (Overall)--2nd in mission demonstration--12th in the Flight Readiness Review--Waypoint Accuracy of 1 metre"
+    },
+    { 
+        "id": 2,
+        "title": "OTTO",
+        "paragraph": "OTTO is our third entry into the International Ground Vehicle Challenge held at Oakland University in Rochester, Michigan, USA, in 2023. It stood as follows--3rd globally in Auto-Navigation out of 25 teams. (Overall)--1st position out of all Indian teams--Making MANAS history, it completed over three-fourths of the challenging course."
+    },
+    { 
+        "id": 3,
+        "title": "SERAPHIM",
+        "paragraph": "Seraphim was our first ever entry into the 20th Student Unmanned Aerial Systems Competition held at St. Mary’s College, Maryland, USA, in 2022. Out of 71 teams from across the world, it ranked as follows::18th in the World (Overall)--2nd in Flight Readiness Review--10th in Technical Design Report--18th in Mission Demonstration"
+    }
+]
